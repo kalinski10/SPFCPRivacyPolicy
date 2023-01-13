@@ -1,15 +1,15 @@
-Privacy Policy
+**Privacy Policy**
+
 This privacy policy (“Policy”) explains how [Company Name] (“we,” “us,” or “our”) collects, uses, and shares information about you when you use our mobile application [App Name] (the “App”).
+
 By using the App, you agree to the collection, use, and sharing of your information as described in this Policy. If you do not agree with our policies and practices, do not download or use the App.
 Information We Collect
+
 We may collect the following information about you when you use the App:
 
 	•	Personal information, such as your name, email address, and phone number, if you choose to provide it to us.
-	
 	•	Location data, including your geographic location, if you choose to allow us to access it.
-	
 	•	Usage data, such as information about how you use the App and interact with its features.
-	
 	•	Device information, such as your device type and operating system.
 	
 How We Use Your Information
