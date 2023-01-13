@@ -28,8 +28,12 @@ We may share your information as follows:
 	•	In the event of a merger, acquisition, or sale of all or part of our business.
 	
 Privacy of Children
+
 The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete the information as soon as possible.
+
 Changes to This Policy
+
 We may update our Policy from time to time. We will post any changes on this page and encourage you to review the Policy periodically. Your continued use of the App after any changes to the Policy will constitute your acceptance of the revised Policy.
 Contact Us
+
 If you have any questions or concerns about our privacy practices, please contact us at [contact information].
