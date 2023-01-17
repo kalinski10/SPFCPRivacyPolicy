@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy (“Policy”) explains how [Company Name] (“we,” “us,” or “our”) collects, uses, and shares information about you when you use our mobile application [App Name] (the “App”).
+This privacy policy (“Policy”) explains how Stertford Paddock FC collects, uses, and shares information about you when you use our mobile application Stertford Paddock FC.
 
 By using the App, you agree to the collection, use, and sharing of your information as described in this Policy. If you do not agree with our policies and practices, do not download or use the App.
 Information We Collect
@@ -36,4 +36,4 @@ The App is not intended for children under the age of 13. We do not knowingly co
 We may update our Policy from time to time. We will post any changes on this page and encourage you to review the Policy periodically. Your continued use of the App after any changes to the Policy will constitute your acceptance of the revised Policy.
 Contact Us
 
-If you have any questions or concerns about our privacy practices, please contact us at [contact information].
+If you have any questions or concerns about our privacy practices, please email us at hello@stretfordpaddockfc.com.
